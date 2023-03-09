@@ -1,7 +1,15 @@
 1. target 선정 -> 리뉴얼 홈페이지 대상 선정 (최소 2개) -기업 인지도
+-> https://www.esteelauder.co.kr/
+-> https://www.kiehls.co.kr/on/demandware.store/Sites-kiehls-kr-Site/ko_KR/Default-Start?NaPm=ct%3Dlf0v8gy3%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3D%7Chk%3D323deee5e4198eb06914cf61da316b0c3178827a
 
 2. wht bad? -> 조사,분석(여백, 색상, 글자 사용편의성)
+-> https://www.esteelauder.co.kr/
+    배너의 넓이 애매함
+    정렬되지 않은 글자 (행간/자간)
+    폰트 설정 미스
+    하단 탭 중구난방
 
 3. 개선방향 -> 홈페이지가 본인이 생각해 봤을 때 괜찮다고 생각되는 디자인 (최소 3개) - 인지도
+-> https://naosmall.kr/bioderma (바이오더마)
 
 *css design awards
